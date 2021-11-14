@@ -1,0 +1,9 @@
+node_modules
+*.log
+dist
+tmp
+.idea/
+.vs/
+.nyc_output/
+.env.local
+.env.production.local
