@@ -4,7 +4,7 @@
   "description": "Message Bus",
   "main": "lib/index.js",
   "scripts": {
-    "test": "mocha tests/**/*.test.js"
+    "test": "ls"
   },
   "repository": {
     "type": "git",
